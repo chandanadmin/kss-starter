@@ -1,0 +1,15 @@
+.component-node {
+  background-color: #EBEBEB; }
+  .component-node .label {
+    font-size: 1.5em; }
+  .component-node .body {
+    font-size: 2em;
+    padding-top: 4px; }
+
+.component-node .body {
+  background-color: #EBEBEB; }
+
+.component-variant {
+  background-color: red; }
+
+/*# sourceMappingURL=style.css.map */
